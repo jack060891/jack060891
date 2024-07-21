@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jack060891
+- 👋 Hi, I’m @Irfaan khan
 - 👀 I’m interested in becoming a coder.
 - 🌱 I’m currently learning python
-- 😄 Pronouns: Jack
+- 😄 Pronouns: Irfaan
 - ⚡ Fun fact: None
 
 <!---
